@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie Smash", "Assembly-CSharp.csproj", "{C054F28D-FAE3-F1F9-8D55-69963A02E707}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie Smash", "Assembly-CSharp-firstpass.csproj", "{BE10F678-E968-CD27-2649-4F62973E3D9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie Smash", "Assembly-CSharp-Editor-firstpass.csproj", "{27346A7D-03FB-336D-15CE-6EA924E9F406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C054F28D-FAE3-F1F9-8D55-69963A02E707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C054F28D-FAE3-F1F9-8D55-69963A02E707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C054F28D-FAE3-F1F9-8D55-69963A02E707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C054F28D-FAE3-F1F9-8D55-69963A02E707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE10F678-E968-CD27-2649-4F62973E3D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE10F678-E968-CD27-2649-4F62973E3D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE10F678-E968-CD27-2649-4F62973E3D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE10F678-E968-CD27-2649-4F62973E3D9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27346A7D-03FB-336D-15CE-6EA924E9F406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27346A7D-03FB-336D-15CE-6EA924E9F406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27346A7D-03FB-336D-15CE-6EA924E9F406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27346A7D-03FB-336D-15CE-6EA924E9F406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
