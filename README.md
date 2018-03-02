@@ -6,6 +6,9 @@
 </div>
 I used the final project assignment as an opportunity to teach myself a new coding paradigm. Unity had come recommended to me by a friend and mentor in the programming industry as an excellent, professional-quality tool for designing games. Though Unity Editor is a sophisticated SDK with an excellent GUI, programming concepts remain integral to its use.
 
+<div align="center">
+<img src="https://s3.amazonaws.com/fluxlymoppings/pics/Unity2.PNG" width=700>
+</div>
 
 Not least among them is the scripting language. All scripting is done in C#, which was a new experience for me. Strictly-typed, there was a bit of a learning curve in adjusting to this new language while simultaneously learning how to relate separate scripts to “Game Objects,” and each other, within the game engine. Like in JavaScript, a kind of representational I/O logic governs almost everything you do in Unity, where Game Objects function much like normal objects in OOP. These objects become very complex as further “components” are attached to them. Components also work much like objects in OOP, and it is amongst these components that C# scripting is also attached and thus introduced to the game scene. Scripts sometimes act upon the respective Game Object itself, or sometimes on a specific component, or sometimes on an entirely different Game Object (or even a component on a different Game Object). Frequently, it is some combination of all these behaviors. The Network Manager is a kind of component, and though Unity does much of the hard work in networking for you (should you use this component), it nonetheless adds more complexity to the set of objective relations which define your game.
 
