@@ -2,6 +2,8 @@
 
 </h3>This misleadingly titled ‘game’ was my final project at SPICED Academy. Made using Unity Editor, it is a 3D online multiplayer game featuring third-person controls, running in the browser, served by an Ubuntu instance hosted on Amazon EC2.</h3>
 
+<img src="https://s3.amazonaws.com/fluxlymoppings/pics/Unity1.PNG" width=700>
+
 I used the final project assignment as an opportunity to teach myself a new coding paradigm. Unity had come recommended to me by a friend and mentor in the programming industry as an excellent, professional-quality tool for designing games. Though Unity Editor is a sophisticated SDK with an excellent GUI, programming concepts remain integral to its use.
 
 Not least among them is the scripting language. All scripting is done in C#, which was a new experience for me. Strictly-typed, there was a bit of a learning curve in adjusting to this new language while simultaneously learning how to relate separate scripts to “Game Objects,” and each other, within the game engine. Like in JavaScript, a kind of representational I/O logic governs almost everything you do in Unity, where Game Objects function much like normal objects in OOP. These objects become very complex as further “components” are attached to them. Components also work much like objects in OOP, and it is amongst these components that C# scripting is also attached and thus introduced to the game scene. Scripts sometimes act upon the respective Game Object itself, or sometimes on a specific component, or sometimes on an entirely different Game Object (or even a component on a different Game Object). Frequently, it is some combination of all these behaviors. The Network Manager is a kind of component, and though Unity does much of the hard work in networking for you (should you use this component), it nonetheless adds more complexity to the set of objective relations which define your game.
@@ -16,5 +18,12 @@ The gameplay is minimal at present, but there are already some exciting elements
 <li> AWS EC2 </li>
 <li> Linux/Ubuntu </li>
 <li> Heroku </li>
+</ul>
+
+# Special Thanks:
+<ul>
+<li> Unity Asset Store for the free assets (individual thanks will be posted soon) </li>
+<li> freesound.org for the SFX (same) </li>
+<li> Matthew Kennon for the music you hear </li>
 </ul>
 
