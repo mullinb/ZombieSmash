@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie Smash", "Assembly-CS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie Smash", "Assembly-CSharp-Editor-firstpass.csproj", "{27346A7D-03FB-336D-15CE-6EA924E9F406}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie Smash", "Assembly-CSharp-Editor.csproj", "{2305AEF3-F2B8-163C-DCFC-D81E6C05ED6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{27346A7D-03FB-336D-15CE-6EA924E9F406}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27346A7D-03FB-336D-15CE-6EA924E9F406}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27346A7D-03FB-336D-15CE-6EA924E9F406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2305AEF3-F2B8-163C-DCFC-D81E6C05ED6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2305AEF3-F2B8-163C-DCFC-D81E6C05ED6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2305AEF3-F2B8-163C-DCFC-D81E6C05ED6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2305AEF3-F2B8-163C-DCFC-D81E6C05ED6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
