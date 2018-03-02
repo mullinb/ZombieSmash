@@ -1,6 +1,7 @@
-# ZombieSmash
+# <a href="unitymp.herokuapp.com">ZombieSmash</a>
 
-</h3>This misleadingly titled ‘game’ was my final project at SPICED Academy. Made using Unity Editor, it is a 3D online multiplayer game featuring third-person controls, running in the browser, served by an Ubuntu instance hosted on Amazon EC2.</h3>
+<h3>This misleadingly titled ‘game’ was my final project at SPICED Academy. Made using Unity Editor, it is a 3D online multiplayer game featuring third-person controls, running in the browser, served by an Ubuntu instance hosted on Amazon EC2.</h3>
+<br>
 <br>
 <div align="center">
 <img src="https://s3.amazonaws.com/fluxlymoppings/pics/Unity1.PNG" width=700>
@@ -31,6 +32,9 @@ As my <a href="https://github.com/mullinb/Godzone">prior work</a> with socket.io
 <br>
 
 The gameplay is minimal at present, but there are already some exciting elements there: players can simultaneously login, set a gamer tag and, using a 2d billboard attached to their character within the game world, engage in rudimentary chat. A few animation-less demons are sometimes encountered; if they can reduce the player’s health to zero (by catching up to the player), it sparks an instant respawn. Much work needs to be done to improve the execution of the actual gameplay. But hey, I taught myself Unity, C#, and AWS EC2 in the span of week. That’s pretty cool.
+<br>
+Note: if the Heroku App loads but does not successfully connect to the server, it is likely that the server is down. EC2 costs money!
+<br>
 # Technologies:
 <ul>
 <li> Unity </li>
