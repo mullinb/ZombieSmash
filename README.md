@@ -1,4 +1,4 @@
-# <a href="https://unitymp.herokuapp.com">ZombieSmash</a>
+# <a href="https://unitymp.herokuapp.com">Zombie Smash</a>
 
 <h3>This misleadingly titled ‘game’ was my final project at SPICED Academy. Made using Unity Editor, it is a 3D online multiplayer game featuring third-person controls, running in the browser, served by an Ubuntu instance hosted on Amazon EC2.</h3>
 <br>
@@ -21,7 +21,7 @@ Scripts (mine for this game are <a href="https://github.com/mullinb/ZombieSmash/
 <br>
 <br>
 
-As my <a href="https://github.com/mullinb/Godzone">prior work</a> with socket.io showed, I have a real interest in real-time connectivity over the internet. After I familiarized myself with the Editor (by way of the excellent documentation and tutorials provided by Unity), I became determined to host a multiplayer game on Heroku or elsewhere, via whatever means necessary. At some point it became apparent that, due to the realities of networking (specifically that Websockets in Unity would need their own port for communication), I would need to set up a separate, dedicated server in addition to the client representation on Heroku. Thus I dove into Amazon EC2, a very dense topic in and of itself, successfully setting up an Ubuntu instance which now hosts my headless Linux server, most likely live as you are reading this. Go ahead: try out <a href=”https://unitymp.herokuapp.com”>Zombie Smash on Heroku</a>!
+As my <a href="https://github.com/mullinb/Godzone">prior work</a> with socket.io showed, I have a real interest in real-time connectivity over the internet. After I familiarized myself with the Editor (by way of the excellent documentation and tutorials provided by Unity), I became determined to host a multiplayer game on Heroku or elsewhere, via whatever means necessary. At some point it became apparent that, due to the realities of networking (specifically that Websockets in Unity would need their own port for communication), I would need to set up a separate, dedicated server in addition to the client representation on Heroku. Thus I dove into Amazon EC2, a very dense topic in and of itself, successfully setting up an Ubuntu instance which now hosts my headless Linux server, most likely live as you are reading this. Go ahead: try out <a href="https://unitymp.herokuapp.com">Zombie Smash on Heroku</a>!
 <br>
 
 <div align="center">
