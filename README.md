@@ -32,7 +32,7 @@ As my <a href="https://github.com/mullinb/Godzone">prior work</a> with socket.io
 
 The gameplay is minimal at present, but there are already some exciting elements there: players can simultaneously login, set a gamer tag and, using a 2d billboard attached to their character within the game world, engage in rudimentary chat. A few animation-less demons are sometimes encountered; if they can reduce the player’s health to zero (by catching up to the player), it sparks an instant respawn. Much work needs to be done to improve the execution of the actual gameplay. But hey, I taught myself Unity, C#, and AWS EC2 in the span of week. That’s pretty cool.
 <p>
-Note: if the Heroku App loads but does not successfully connect to the server, it is likely that the server is down. EC2 costs money!
+Note: if the Heroku App loads but does not successfully connect to the server, please reach out to me directly! Either via email (mullin.mm@gmail.com) or a PM on <a href="linkedin.com/in/brianemullin/">LinkedIn</a>.
 </p>
 
 ## Technologies: 
