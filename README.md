@@ -34,7 +34,7 @@ The gameplay is minimal at present, but there are already some exciting elements
 <p>
 Note: if the Heroku App loads but does not successfully connect to the server, it is likely that the server is down. EC2 costs money!
 </p>
-# Technologies:
+# Technologies: 
 <ul>
 <li> Unity </li>
 <li> C# </li>
